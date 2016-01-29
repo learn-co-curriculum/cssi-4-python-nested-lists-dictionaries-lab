@@ -58,4 +58,4 @@ Bonus: Use a loop with another loop to return a string for each key value pair b
 "The website of miami is http://www.miamigov.com"
 ```
 
-<a href='https://learn.co/lessons/cssi-4-python-nested-lists-dictionaries-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-python-nested-lists-dictionaries-lab' title='Nesting Habits'>Nesting Habits</a> on Learn.co and start learning to code for free.</p>
